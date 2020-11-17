@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "Z+8k1w4UFjIjJto55/9EdV/JQiFQOEIhVtURHVjUUKz17oqmUdERQ/jEREZtrCEaJzblFuMnGa1MQlQ/Vh7RVQ==",
+  "dgSpecHash": "3EIH2eT1tThR9eb6/gS8lsgR1wj7+q1+XEOg7K+QvIjArlhXcxeHpVw5WWizIXnAdBtS6MZ08lMDNsSTkMDBJQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Moliv\\Desktop\\repositorios\\curso-itextsharp-c-sharp\\curso-itextsharp-c-sharp\\curso-itextsharp-c-sharp.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\Moliv\\.nuget\\packages\\itextsharp\\5.5.13.1\\itextsharp.5.5.13.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'iTextSharp 5.5.13.1' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v3.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "iTextSharp",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
